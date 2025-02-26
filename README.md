@@ -1,3 +1,3 @@
 # JWT Decoder
 
-Saved from https://jwtinspector.kevhak.people.aws.dev/
+Mirror of https://jwtinspector.kevhak.people.aws.dev
