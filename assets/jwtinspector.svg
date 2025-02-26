@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96 96">
+  <!-- hand crafted by kevhak -->
+  <title>JWT Inspector logo</title>
+  <defs>
+    <g id="mark" stroke="black" stroke-width="0">
+      <path d="M 43 10 l 0 22.5 l 5 6 l 5 -6 l 0 -22.5 Z" />
+    </g>
+  </defs>
+  <rect x="0" y="0" width="96" height="96" fill="black" />
+  <use xlink:href="#mark" transform="rotate(0, 48, 48)" fill="#ffffff" />
+  <use xlink:href="#mark" transform="rotate(36, 48, 48)" fill="#d13212" />
+  <use xlink:href="#mark" transform="rotate(72, 48, 48)" fill="#545b64" />
+  <use xlink:href="#mark" transform="rotate(108, 48, 48)" fill="#0073bb" />
+  <use xlink:href="#mark" transform="rotate(144, 48, 48)" fill="#1d8102" />
+  <use xlink:href="#mark" transform="rotate(180, 48, 48)" fill="#ffffff" />
+  <use xlink:href="#mark" transform="rotate(216, 48, 48)" fill="#d13212" />
+  <use xlink:href="#mark" transform="rotate(252, 48, 48)" fill="#545b64" />
+  <use xlink:href="#mark" transform="rotate(288, 48, 48)" fill="#0073bb" />
+  <use xlink:href="#mark" transform="rotate(324, 48, 48)" fill="#1d8102" />
+</svg>
