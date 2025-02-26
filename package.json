@@ -1,13 +1,17 @@
 {
-  "name": "jwt-app",
+  "name": "tools-jwt-decoder",
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "serve": "serve -s ."
+    "start": "serve -s .",
+    "deploy": "netlify deploy --site=57ca5823-ecd2-4822-93c7-1553714f552c --prod --dir=."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
 }
