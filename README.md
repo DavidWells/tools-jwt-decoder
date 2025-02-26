@@ -1,8 +1,10 @@
 # JWT Decoder
 
-Decoder and verify JWTs
+Decode and verify JWTs
 
-Mirror of https://jwtinspector.kevhak.people.aws.dev
+Mirror of https://jwtinspector.kevhak.people.aws.dev. 
+
+Props to original dev for this amazing tool ❤️.
 
 ## Usage locally
 
